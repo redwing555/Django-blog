@@ -1,0 +1,17 @@
+{
+  "python.linting.pylintArgs": [
+    "--load-plugins=pylint_django"
+  ],
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\static",
+    "\\blog\\static\\blog",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\login",
+    "\\myblog"
+  ],
+  "SelectedNode": "\\blog\\templates\\blog\\base.html",
+  "PreviewInSolutionExplorer": false
+}
